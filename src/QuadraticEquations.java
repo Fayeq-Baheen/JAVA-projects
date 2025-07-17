@@ -1,15 +1,5 @@
 public class QuadraticEquations {
 
-//    QuadraticEquations qr = new QuadraticEquations(3,12,5);
-//        System.out.println(qr.getA());
-//        System.out.println(qr.getC());
-//        System.out.println(qr.getB());
-//        System.out.println(qr.getDiscriminant());
-//        System.out.println(qr.getRoot1());
-//        System.out.println(qr.getRoot2());
-
-
-
     private int a,b,c;
 
 

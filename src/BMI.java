@@ -1,17 +1,4 @@
 public class BMI {
-//    MAIN
-//    BMI ahmad = new BMI("Ahmad",15,57,1.7);
-//        System.out.println(ahmad.getName());
-//        System.out.println(ahmad.getBMI());
-//        System.out.println(ahmad.getStatus());
-//
-//    BMI karim = new BMI("Karim", 20, 54, 1.67);
-//        System.out.println(karim.getName());
-//        System.out.println(karim.getBMI());
-//        System.out.println(karim.getStatus());
-
-
-
 
     private String name;
     private int age;

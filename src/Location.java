@@ -1,18 +1,5 @@
 public class Location {
 
-//    double[][] a = new double[3][4];
-//        for(int i = 0; i < a.length; i++){
-//        for(int j = 0; j < a[i].length; j++){
-//            a[i][j] = i + j;
-//            System.out.print(a[i][j]+" ");
-//        }
-//        System.out.println();
-//    }
-//    Location loc = Location.locateLargest(a);
-//        System.out.println("The largest value is: "+loc.maxValue+" located in ("+loc.row+","+loc.column+")");
-
-
-
     public int row, column;
     public double maxValue;
 

@@ -1,19 +1,5 @@
 public class LinearEquation {
 
-
-//    LinearEquation le = new LinearEquation(1,2,3,6,5,4);
-//        if(le.isSolvable()){
-//        System.out.println(le.getX());
-//        System.out.println(le.getY());
-//    }else
-//            System.out.println("The makhraj is 0");
-
-
-
-
-
-
-
     private int a,b,c,d,e,f;
 
     LinearEquation(){
