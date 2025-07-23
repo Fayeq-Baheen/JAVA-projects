@@ -10,7 +10,9 @@ public class GuessBirthdayDate {
     public static int getValue(int setNo, int row, int column){
         return dates[setNo][row][column];
     }
+    private GuessBirthdayDate(){
 
+    }
 
 
 
